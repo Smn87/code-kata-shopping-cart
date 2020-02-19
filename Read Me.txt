@@ -1,0 +1,10 @@
+
+My name is Simone. I am a student at London Metropolitan University.
+I took the full 2 hours to make this code, I had tried different ways to implement it (even using an array list), but then I have
+decided that was more clear to do all in one method specifying all the variable and use them to create for loops
+to read each character entered on the main method, evaluate them and make the calculation.
+As you will go through the code, i used a simple division with the reminder operator to tell the program to check
+whether the rule (3A or 2B) applied to give the discount.
+It was not very straight forward for me, as I am oriented on the creative/engineering side of the IT industry but
+I do like to code too.
+Thank you for the chance.!
